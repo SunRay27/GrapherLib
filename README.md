@@ -1,13 +1,12 @@
 # GrapherLib
 Simple library for displaying 2d plots
 
----
 ## Features:
 - Parametrized functions
 - Function zeros
 - Function NAN's
 - Runtime customization
----
+
 ## Code sample:
 ```cs
 using GrapherLib;
