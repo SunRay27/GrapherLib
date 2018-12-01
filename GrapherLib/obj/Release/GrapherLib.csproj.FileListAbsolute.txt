@@ -1,0 +1,9 @@
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\bin\Release\GrapherLib.dll
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\bin\Release\GrapherLib.pdb
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\obj\Release\GrapherLib.csprojAssemblyReference.cache
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\obj\Release\GrapherLib.PlotForm.resources
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\obj\Release\GrapherLib.Properties.Resources.resources
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\obj\Release\GrapherLib.csproj.GenerateResource.cache
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\obj\Release\GrapherLib.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\obj\Release\GrapherLib.dll
+C:\Users\Skynet\source\repos\GrapherLib\GrapherLib\obj\Release\GrapherLib.pdb

@@ -1,0 +1,16 @@
+c:\users\zvevs\documents\visual studio 2015\Projects\GrapherLib\GrapherLib\bin\Debug\GrapherLib.dll
+c:\users\zvevs\documents\visual studio 2015\Projects\GrapherLib\GrapherLib\bin\Debug\GrapherLib.pdb
+c:\users\zvevs\documents\visual studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.dll
+c:\users\zvevs\documents\visual studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.pdb
+C:\Users\Zvevs\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.PlotForm.resources
+C:\Users\Zvevs\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.csproj.GenerateResource.Cache
+C:\Users\Zvevs\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.Properties.Resources.resources
+C:\Users\Zvevs\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.csprojResolveAssemblyReference.cache
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\bin\Debug\GrapherLib.dll
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\bin\Debug\GrapherLib.pdb
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.PlotForm.resources
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.Properties.Resources.resources
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.csproj.GenerateResource.Cache
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.dll
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.pdb
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\GrapherLib\GrapherLib\obj\Debug\GrapherLib.csprojResolveAssemblyReference.cache
