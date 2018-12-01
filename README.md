@@ -1,6 +1,6 @@
 # GrapherLib
-
 Simple library for displaying 2d plots
+
 ---
 ## Features:
 - Parametrized functions
